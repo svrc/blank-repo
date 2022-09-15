@@ -12,3 +12,4 @@ spec:
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
     - ./templates/template.yaml
+    - ./templates/template2.yaml
